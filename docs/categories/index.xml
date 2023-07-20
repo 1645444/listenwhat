@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on WHAT I FOUND</title>
+    <link>http://z1645444.github.io/categories/</link>
+    <description>Recent content in Categories on WHAT I FOUND</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © 2024, Grand Lin and the Hugo Authors; all rights reserved.</copyright>
+    <atom:link href="http://z1645444.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

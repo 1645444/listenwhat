@@ -1,0 +1,20 @@
+# languageCode = 'en-us'
+baseURL = 'http://z1645444.github.io/'
+languageCode = 'zh-cn'
+title = 'WHAT I FOUND'
+copyright = "Copyright © 2024, Grand Lin and the Hugo Authors; all rights reserved."
+theme = 'PaperMod'
+publishDir = 'docs'
+
+[menu]
+[[menu.main]]
+identifier = 'home'
+name = 'Home'
+url = '/'
+weight = 1
+
+[[menu.main]]
+identifier = 'about'
+name = 'About'
+url = '/about/'
+weight = 10
