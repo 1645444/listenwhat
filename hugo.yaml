@@ -1,0 +1,8 @@
+relativeURLs: true
+baseURL: https://z1645444.github.io/
+languageCode: zh-cn
+title: LAND OF VOID
+copyright: Copyright © 2024, Grand Lin and the Hugo Authors; all rights reserved.
+publishDir: docs
+isCJKLanguage: true
+theme: ["PaperMod"]
