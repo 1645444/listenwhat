@@ -35,6 +35,10 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  contact:
+    email: z1645444@outlook.com
+    phone: +86 186-8977-8737
+
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -130,6 +134,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
     - identifier: categories
       name: Categories
       url: /categories/
